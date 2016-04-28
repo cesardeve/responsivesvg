@@ -2,7 +2,7 @@
 Plugin for responsive SVG
 
 # How to call plugin
-
+```javascript
 customFunctions = [];
 $responsiveSVG.init(
   containerMinWidth = 500,
@@ -12,8 +12,9 @@ $responsiveSVG.init(
   divContainer = 'svg-cell',
   customFunctions
 );
+```
 
-# How to call plugin
+# Struture
 
 ```html
 <div class="col-md-6" id="svg-cell">
