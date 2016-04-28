@@ -14,6 +14,8 @@ $responsiveSVG.init(
 );
 
 # How to call plugin
+
+```html
 <div class="col-md-6" id="svg-cell">
     <svg
       version="1.1"
@@ -42,3 +44,4 @@ $responsiveSVG.init(
         </g>
     </svg>
   </div>
+  ```
