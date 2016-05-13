@@ -3,15 +3,7 @@ Plugin for responsive SVG
 
 # How to call plugin
 ```javascript
-customFunctions = [];
-$responsiveSVG.init(
-  containerMinWidth = 500,
-  containerMinHeight = 480,
-  SVGContainer = 'svg-container',
-  groupShape = 'group-shape',
-  divContainer = 'svg-cell',
-  customFunctions
-);
+$responsiveSVG.init(500, 480, '#svg-cell', '#svg-container', '#group-shape');
 ```
 
 # Struture
