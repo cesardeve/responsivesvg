@@ -15,7 +15,7 @@ You must pass:
 $responsiveSVG.init(500, 480, '#svg-cell', '#svg-container', '#group-shape');
 ```
 
-# Struture
+# Sample Struture
 
 ```html
 <div class="svg" id="svg-cell">
