@@ -5,10 +5,10 @@ Plugin for responsive SVG
 This plugin need JQuery to work.
 
 You must pass:
- + width and height of SVG;
- + the div that contain the SVG;
- + the ID of of tag <svg>;
- + The group <g> that contains all shapes
+ + Width and Height of SVG;
+ + The div that contain the SVG;
+ + The ID of of tag <svg>;
+ + The group <g> that contains all shapes;
 
 # How to call plugin
 ```javascript
