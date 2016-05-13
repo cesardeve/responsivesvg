@@ -1,6 +1,15 @@
 # responsivesvg
 Plugin for responsive SVG
 
+# How to use
+This plugin need JQuery to work.
+
+You must pass:
+ + width and height of SVG;
+ + the div that contain the SVG;
+ + the ID of of tag <svg>;
+ + The group <g> that contains all shapes
+
 # How to call plugin
 ```javascript
 $responsiveSVG.init(500, 480, '#svg-cell', '#svg-container', '#group-shape');
